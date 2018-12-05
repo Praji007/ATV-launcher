@@ -86,6 +86,11 @@ Backdrops:
 3.	Is not able to run on any type of terrains
 4.	Is not automated 
 
+Problem Definition 
+The tank is expected to launch 4 missiles simultaneously as it has to be a semi automated system. The tank is also expected to be attack resistance and must be able to run on all types of terrains. Most of all the tank must be user friendly and should be quick enough in both launching missile as well as working on all types of terrains. The tank is expected to be handy to use and less in height and weight for best performance.
+
+
+
 
 
 
