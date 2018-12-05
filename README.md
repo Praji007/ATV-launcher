@@ -53,6 +53,7 @@ This type of a missile launcher is attached to an army car by mounting it on the
 BOTTLE MISSILE LAUNCHER
  
 Fig 5
+https://user-images.githubusercontent.com/42519032/49505317-83d50900-f8a1-11e8-977f-4da72ab4fc5c.png
 The scale is approximatively the same than my other tanks (~1:18). The model is about 36cm long, 15cm wide, and 16cm tall. It requires 3mm material.
 The tracks system is different from my other tanks, it will be much longer to make them. Be patient when you will make this tank.
 There are many wheels, so be patient. Stack all the 9 layers (You can recognize them with the number of dots to know the order) around a toothpick, and be sure that it pokes out from the two sides. You can use the hollow rectangles to make sure all the layers are perpendicular to the toothpick.  Trap the 20mm screw inside it before hiding the head. It will be easier to fix the wheel on its support now rather than later.
