@@ -70,21 +70,10 @@ Most of you might have got the idea from the project title itself that what kind
 In actual automatic missile launcher system, the position of missile (means launching angle) is first set and then missile is fired so as it will hit the target. The missile angle is set in horizontal plane (azimuth angle) and vertical plane (elevation angle)
 In the given demonstration model the missile angle is set for horizontal plane (azimuth angle) only. The angle can be set from 0o to 350o in step of 10o. A micro stepping stepper motor is used to set missile angle. The stepper motor rotates missile to set angle (azimuth). The project is build using AT89C52 micro controller and it uses push buttons to take user input to set angle and LCD to display missile angle.
 
-
-
-
-
-
-
-
-
 Anti-Craft Missile Launcher
 
-
- 
 Fig 7
-
-
+https://user-images.githubusercontent.com/42519032/49505920-c2b78e80-f8a2-11e8-8397-14b0eb4c72f7.png
 1.	Launches 4 missiles one after the other
 2.	Has a high range of flight length
 3.	Is capable of shooting at the angle of all 360 degrees
