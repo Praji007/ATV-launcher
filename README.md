@@ -91,6 +91,18 @@ Problem Definition
 The tank is expected to launch 4 missiles simultaneously as it has to be a semi automated system. The tank is also expected to be attack resistance and must be able to run on all types of terrains. Most of all the tank must be user friendly and should be quick enough in both launching missile as well as working on all types of terrains. The tank is expected to be handy to use and less in height and weight for best performance.
 
 
+concept generation 
+
+concept selection
+
+
+product architecture 
+
+
+
+SPRINT 1
+1)Chassi
+
 
 
 
