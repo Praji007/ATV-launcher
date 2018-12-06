@@ -101,6 +101,8 @@ product architecture
 
 
 SPRINT 1
+sprint 1 concist of the movement of the tanker on the ground and it also moves 360 degares.the folling are the parts of sprint1:-
+
 1)Chassi
 https://user-images.githubusercontent.com/42519032/49568142-1800a800-f956-11e8-9f39-d38d68cb2493.png
 2)Wheel
