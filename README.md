@@ -4,9 +4,10 @@ abstract ???
 Pertinent Gathering information
 
 Current solutions for the given need statement:
+
 Semi-automated missile shooter
 
-Fig1
+Fig1 
 https://user-images.githubusercontent.com/42519032/49504830-85ea9800-f8a0-11e8-8c90-1816dbe9ed49.png
 1.It has a well-developed all terrain drive system 
 2. Works on dc motors and is found to be light in weight
