@@ -102,6 +102,8 @@ product architecture
 
 SPRINT 1
 1)Chassi
+https://user-images.githubusercontent.com/42519032/49568142-1800a800-f956-11e8-9f39-d38d68cb2493.png
+2)Wheel
 
 
 
